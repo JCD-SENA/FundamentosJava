@@ -11,6 +11,7 @@ import java.util.Scanner;
 import java.io.*;
 
 /*
+Esto es de Java II
 Modifique el  programa que permita calcular el sueldo final de un empleado, tenga en cuenta que el sueldo depende de un incremento del 30%, haga el algoritmo definiendo el porcentaje como una constante pero solicite los datos de entrada mediante cada una de las técnicas vistas en esta guía.
 */
 

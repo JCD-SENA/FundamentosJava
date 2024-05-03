@@ -11,6 +11,7 @@ import java.util.Scanner;
 import java.io.*;
 
 /*
+Esto es de Java II
 Haga un algoritmo que permita imprimir el resultado del ejemplo propuesto sobre la precedencia de operadores de la guía anterior, pero deberá solicitar los valores aplicando cada una de las técnicas vistas en esta guía.
 */
 
